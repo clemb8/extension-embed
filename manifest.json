@@ -25,5 +25,5 @@
   "permissions": [
     "tabs"
   ],
-  "web_accessible_resources": ["popup.html"]
+  "web_accessible_resources": ["popup.html", "https://awsquid.private.lifen.fr"]
 }
